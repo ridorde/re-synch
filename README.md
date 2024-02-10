@@ -4,7 +4,7 @@
 2. Les entrées de valeurs sont sensibles à la casse (je vérifie rien) donc faites attention
 3. Le programme est prévu pour windows donc il peut ne pas fonctionner pour Linux,Mac,...
 4. Le programme crée les fichiers de sauvegarde dans le répertoire courant (là où est exécuté le programme)
-5. Pareil pour l'endroit où les maps sont téléchargé
+5. Pareil pour l'endroit où les maps sont téléchargées
 
 ## Utilisation
 Prévoyez un dossier vide, mettez-y __re-synch.py__ puis lancer le avec python dans un terminal
